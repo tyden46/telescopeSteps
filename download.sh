@@ -1,0 +1,40 @@
+#!/bin/bash
+
+#SBATCH --time=10:00:00   # walltime
+#SBATCH -p defq
+fastq-dump --split-e SRR14108895
+fastq-dump --split-e SRR14108896
+fastq-dump --split-e SRR14108897
+fastq-dump --split-e SRR14108898
+fastq-dump --split-e SRR14108899
+fastq-dump --split-e SRR14108900
+fastq-dump --split-e SRR14108901
+fastq-dump --split-e SRR14108902
+fastq-dump --split-e SRR14108903
+fastq-dump --split-e SRR14108904
+fastq-dump --split-e SRR14108905
+fastq-dump --split-e SRR14108906
+fastq-dump --split-e SRR14108907
+fastq-dump --split-e SRR14108908
+fastq-dump --split-e SRR14108909
+fastq-dump --split-e SRR14108910
+fastq-dump --split-e SRR14108911
+fastq-dump --split-e SRR14108912
+fastq-dump --split-e SRR14108913
+fastq-dump --split-e SRR14108914
+fastq-dump --split-e SRR14108915
+fastq-dump --split-e SRR14108916
+fastq-dump --split-e SRR14108917
+fastq-dump --split-e SRR14108918
+fastq-dump --split-e SRR14108919
+fastq-dump --split-e SRR14108920
+fastq-dump --split-e SRR14108921
+fastq-dump --split-e SRR14108928
+fastq-dump --split-e SRR14108929
+fastq-dump --split-e SRR14108930
+fastq-dump --split-e SRR14108931
+fastq-dump --split-e SRR14108932
+fastq-dump --split-e SRR14108933
+fastq-dump --split-e SRR14108934
+fastq-dump --split-e SRR14108935
+fastq-dump --split-e SRR14108936
